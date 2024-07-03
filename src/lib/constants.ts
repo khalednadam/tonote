@@ -1,8 +1,8 @@
-import client1 from "../../public/Client1.png";
-import client2 from "../../public/Client2.png";
-import client3 from "../../public/Client3.png";
-import client4 from "../../public/Client4.png";
-import client5 from "../../public/Client5.png";
+import client1 from "../../public/client1.png";
+import client2 from "../../public/client2.png";
+import client3 from "../../public/client3.png";
+import client4 from "../../public/client4.png";
+import client5 from "../../public/client5.png";
 
 export const CLIENTS = [
   { alt: "client1", logo: client1 },
